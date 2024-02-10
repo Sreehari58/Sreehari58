@@ -45,9 +45,6 @@
         <strong>Hive</strong>,
         <strong>Hadoop</strong>,
     </p>
-    <p><img align="left" src="https://www.netsolutions.com/insights/wp-content/uploads/2021/12/11-most-popular-programming-languages-2022.webp></p>
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sreehari58&show_icons=true&locale=en&layout=compact" alt="sreehari58" /></p>
 </div>
-
-
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sreehari58&show_icons=true&locale=en" alt="sreehari58" /></p>
