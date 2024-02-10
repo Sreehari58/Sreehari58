@@ -42,9 +42,10 @@
         <strong>nodejs</strong>, 
         <strong>HTML</strong>, 
         <strong>CSS</strong>, 
-        and more...
+        <strong>Hive</strong>,
+        <strong>Hadoop</strong>,
     </p>
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sreehari58&show_icons=true&locale=en&layout=compact" alt="sreehari58" /></p>
+    <p><img align="left" src="https://www.netsolutions.com/insights/wp-content/uploads/2021/12/11-most-popular-programming-languages-2022.webp></p>
 </div>
 
 
