@@ -153,30 +153,27 @@ I'm a **Software Engineer** based in **Chicago, IL** with 3+ years of experience
 
 ### 📊 GitHub Activity
 
-<!-- 🏆 Trophy shelf — replace YOUR_USERNAME with your actual GitHub username -->
+<!-- ⚠️ Replace sreehari58 below with your exact GitHub username if different -->
+
+<!-- 🏆 Trophy shelf -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=6" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sreehari58&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=6" alt="trophies" />
+</p>
+
+<!-- 📊 Stats + Top Languages side by side -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sreehari58&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sreehari58&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="45%" />
+</p>
+
+<!-- 🔥 Streak — days/months/years tracking (most reliable streak service) -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sreehari58&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="60%" alt="GitHub Streak" />
 </p>
 
 <!-- 📈 Contribution activity graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true&area_color=1F6B75" alt="activity graph" width="95%" />
-</p>
-
-<!-- 🌐 WakaTime coding stats (set up at wakatime.com — free, shows real language breakdown from your editor) -->
-<!--
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true&layout=compact" width="60%" />
-</p>
--->
-
-<!-- 🐍 Contribution snake animation — add this GitHub Action to your profile repo to auto-generate -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sreehari58&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" width="95%" />
 </p>
 
 ---
@@ -195,13 +192,16 @@ I'm a **Software Engineer** based in **Chicago, IL** with 3+ years of experience
 <a href="https://www.leetcode.com/sreehari_58" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/></a>
 <a href="mailto:sthirumalaibhuvaragh@gmail.com">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" height="30" width="40" title="Email"/></a>
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" height="30" width="40" title="sthirumalaibhuvaragh@gmail.com"/></a>
+
+<br/>
+📧 <a href="mailto:sthirumalaibhuvaragh@gmail.com">sthirumalaibhuvaragh@gmail.com</a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=1F6B75&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=sreehari58&label=Profile+Views&color=1F6B75&style=for-the-badge" alt="profile views" />
 </p>
 
 <p align="center">
