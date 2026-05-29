@@ -151,15 +151,32 @@ I'm a **Software Engineer** based in **Chicago, IL** with 3+ years of experience
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
+<!-- 🏆 Trophy shelf — replace YOUR_USERNAME with your actual GitHub username -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sreehari58&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sreehari58&theme=tokyonight&hide_border=true&background=0d1117" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=6" alt="trophies" />
 </p>
 
+<!-- 📈 Contribution activity graph -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sreehari58&show_icons=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true&area_color=1F6B75" alt="activity graph" width="95%" />
+</p>
+
+<!-- 🌐 WakaTime coding stats (set up at wakatime.com — free, shows real language breakdown from your editor) -->
+<!--
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true&layout=compact" width="60%" />
+</p>
+-->
+
+<!-- 🐍 Contribution snake animation — add this GitHub Action to your profile repo to auto-generate -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
+  </picture>
 </p>
 
 ---
@@ -184,7 +201,7 @@ I'm a **Software Engineer** based in **Chicago, IL** with 3+ years of experience
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sreehari58&label=Profile%20views&color=1F6B75&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=1F6B75&style=flat" alt="profile views" />
 </p>
 
 <p align="center">
